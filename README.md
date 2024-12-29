@@ -1,7 +1,7 @@
 
 # qa_python
 
-##Список реализованных тестов
+## Список реализованных тестов
 
 1. Проверяем добавление новой книги без жанра
     def test_add_new_book_add_book_no_genre(self, collector):
